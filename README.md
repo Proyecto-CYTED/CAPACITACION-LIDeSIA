@@ -38,14 +38,12 @@ Carpeta `imagenes_inferencia`: Imágenes de ejemplo para pruebas.
 
 ⚠️ Notas Importantes
 * No modificar el modelo base a menos que se indique.
-* 
+  
 * Asegúrate de tener conexión a internet para la descarga de librerías y pesos.
-* 
+  
 * El tiempo de ejecución dependerá de la conexión y recursos asignados por Colab.
-* 
-📜 Créditos
+
+  
+📜 Propiedad: 
 Este material fue desarrollado como parte de las prácticas de detección de objetos en el curso.
-
-
-Propiedad: 
 ### Laboratorio de Investigación y Desarrollo de Software e Inteligencia Artificial (LIDeSIA)
