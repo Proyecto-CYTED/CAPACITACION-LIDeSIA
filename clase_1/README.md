@@ -4,7 +4,7 @@ Este repositorio contiene un archivo de Google Colab diseñado para que los estu
 El objetivo es que los alumnos aprendan a cargar un modelo, ejecutar predicciones sobre imágenes reales y analizar los resultados obtenidos.
 
 📂 Contenido
-`YOLOv8_Inferencia_CAPACITACION_LIDeSIA.ipynb`: Notebook de Google Colab con el flujo completo para la ejecución de inferencias.
+`YOLOv8_Inferencia_LIDeSIA.ipynb`: Notebook de Google Colab con el flujo completo para la ejecución de inferencias.
 
 Carpeta `imagenes_inferencia`: Imágenes de ejemplo para pruebas.
 
